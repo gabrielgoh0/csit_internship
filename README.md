@@ -1,4 +1,4 @@
-# GovTech Internship 27 Apr - 10 Jul 2020
+# CSIT Internship 27 Apr - 10 Jul 2020
 
 First few weeks: hxxps://github.com/averykhoo/ptr-training-package
 
